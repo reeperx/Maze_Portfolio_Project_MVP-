@@ -1,5 +1,5 @@
 # Maze_Portfolio_Project_MVP-
-Welcome to Eli's Maze Demo, a simple 3D raycasting maze game built using SDL2 and SDL2_image. This project demonstrates fundamental concepts in computer graphics and game development such as raycasting for 3D rendering, texture mapping, and basic user interactions.
+Welcome to Geoffrey's and Eli's Maze Demo, a simple 3D raycasting maze game built using SDL2 and SDL2_image. This project demonstrates fundamental concepts in computer graphics and game development such as raycasting for 3D rendering, texture mapping, and basic user interactions.
 
 
 ## Table of Contents
